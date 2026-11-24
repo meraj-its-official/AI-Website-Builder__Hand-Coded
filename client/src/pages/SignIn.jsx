@@ -67,8 +67,8 @@ function SignIn({ open, onClose }) {
                                 border border-white/10 text-sm text-zinc-300">
                                     AI-powered website builder
                                 </h1>
-                                <h1 className="text-3xl font-semibold leading-tight mb-3 space-x-2">
-                                    <span className='text-shadow-amber-50'> Welcome to </span><span className="bg-linear-to-r from-purple-400 to-blue-400 
+                                <h1 className="text-3xl font-semibold leading-tight mb-3 space-x-2 text-white">
+                                    Welcome to<span className="bg-linear-to-r from-purple-400 to-blue-400 
                                     bg-clip-text text-transparent">ConTex.ai</span>
                                 </h1>
                                 <motion.button
