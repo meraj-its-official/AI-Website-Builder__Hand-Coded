@@ -129,8 +129,8 @@ AI-Website-Builder/
 │   ├── utils/                # AI response parsing utility
 │   ├── index.js
 │   └── package.json
-├── README.md
-└── PRD.md
+├── PRD.md
+└── README.md
 ```
 
 ## Prerequisites
